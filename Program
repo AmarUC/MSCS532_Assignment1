@@ -8,3 +8,9 @@ def insertion_sort(arr):
             j -= 1
             arr[j + 1] = key
 
+
+#Example
+unsorted_numbers = [13, 6, 9, 4, 16, 8]
+
+print("Unsorted list:", unsorted_numbers)
+
