@@ -14,3 +14,8 @@ unsorted_numbers = [13, 6, 9, 4, 16, 8]
 
 print("Unsorted list:", unsorted_numbers)
 
+insertion_sort(unsorted_numbers)
+
+print("Sorted in decreasing order:", unsorted_numbers)
+
+
